@@ -1,6 +1,6 @@
-# Pathfinding and Maze Generating Visualizer
+## Pathfinding and Maze Generating Visualizer
 
-Graphical User Interface built using React Framework to visualize Pathfinding Algorithms and Maze Generation Algorithms. 
+Graphical User Interface built using React to visualize Pathfinding Algorithms and Maze Generation Algorithms. 
 
 ## Pathfinding Algorithms:
 1. Dijkstra's Algorithm
